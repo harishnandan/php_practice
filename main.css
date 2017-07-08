@@ -1,0 +1,28 @@
+body{
+	margin: 0 auto;
+	padding: 0;
+	background-color: lightblue;
+}
+
+.header{
+	margin: 0 auto;
+	font-size: 2em;
+	float: left;
+	font-style: bold;
+}
+
+.logout{
+	font-size: 20px;
+	float: right;
+	padding-top: 7px;
+}
+
+.clear{
+	clear: both;
+}
+
+.old{
+	text-align: center;
+	font-style: bold;
+	font-size: 25px;
+}
